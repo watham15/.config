@@ -1,0 +1,24 @@
+theme = "gruvbox_material_dark_hard"
+
+[editor]
+line-number = "relative"
+mouse = true
+cursorline = true
+cursorcolumn = true
+bufferline = "always"
+color-modes = true
+auto-info = true
+auto-format = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+
+[editor.statusline]
+separator = "│"
+mode.normal = "NORMAL"
+mode.insert = "INSERT"
+mode.select = "VISUAL"
+

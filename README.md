@@ -1,2 +1,2 @@
-# .config
-dotfiles containing minimal setup for personal use
+*dotfiles containing minimal setup for personal use
+

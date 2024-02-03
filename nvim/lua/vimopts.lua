@@ -1,0 +1,12 @@
+vim.cmd("set number")
+vim.cmd("set relativenumber")
+vim.cmd("set nocompatible")
+vim.cmd("set cursorline")
+vim.cmd("set tabstop=4")
+vim.cmd("set shiftwidth=2")
+vim.cmd("set encoding=UTF-8")
+vim.cmd("set title")
+vim.cmd("filetype on")
+vim.cmd("filetype plugin on")
+vim.cmd("syntax enable")
+
